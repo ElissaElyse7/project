@@ -3,7 +3,7 @@
 ## Project: [ELYSE GROUP]
 
 **Team Members**
-- 1 Murengerantwari Elyse
+- 1 MURENGERANTWARI Elyse
 - 2 UMURINGA NUCQUESSE
 - 3 IRASUBIZA GABIN HERTIER
 - 4 UMUHOZA HENRIETTE
