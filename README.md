@@ -74,8 +74,11 @@ If something breaks:
 - Notify team in chat: “Rolled back to [version name]”
 
 ---
+## 6. OUR FIGMA PROTOTYPE
+- ** [FIGMA FIRST LINK](https://www.figma.com/files/team/1616716552661280953/recents-and-sharing?fuid=1616716550900246154)**
+- **[FIGMA EXPORT](https://www.figma.com/design/xxcivW5nmCobVxym2eUA9D/EduMentor-AI?node-id=0-1&p=f&t=H7QmIHok3ZBuCLFo-0)
 
-## 6. Tools we use
+## 7. Tools we use
 
 - **Figma** (design + version history + comments)
 - **WhatsApp / Telegram / Discord** (quick sync)
